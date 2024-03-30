@@ -1,0 +1,15 @@
+
+unlitgeneric
+{
+
+	$basetexture sprites/scope_3_d
+
+	$translucent 1
+	$alpha 1
+
+	$vertexalpha 1
+	$ignorez 1
+
+	$no_fullbright 1
+
+}
